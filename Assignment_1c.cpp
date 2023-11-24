@@ -1,10 +1,9 @@
 /*
+<<<<<<< HEAD
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Problem Statement : Implement a problem of smallest number with at least n trailing zeroes in factorial.
                     - Given a number n. The task is to find the smallest number whose factorial contains at least n trailing zeroes.
 ---------------------------------------------------------------------------------------------------------------------------------------------*/
-
-
 
 #include <iostream>
 using namespace std;
@@ -47,4 +46,8 @@ int main() {
     cout << "The smallest number whose factorial contains at least " << n << " trailing zeroes is: " << smallestNumber << endl;
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b667f34072562e4bdcd1ccc0ec451e8102e7b155
