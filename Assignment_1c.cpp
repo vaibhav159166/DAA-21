@@ -46,8 +46,8 @@ int main() {
     cout << "The smallest number whose factorial contains at least " << n << " trailing zeroes is: " << smallestNumber << endl;
 
     return 0;
-<<<<<<< HEAD
+
 }
-=======
+
 }
->>>>>>> b667f34072562e4bdcd1ccc0ec451e8102e7b155
+
